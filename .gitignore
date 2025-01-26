@@ -1,0 +1,6 @@
+/.venv
+embeddings.ipynb
+prediction.ipynb
+simplernn.ipynb
+info.txt
+/dataset

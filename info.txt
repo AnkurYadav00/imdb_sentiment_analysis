@@ -1,0 +1,13 @@
+Dataset : IMDB dataset - movie reviews
+
+    Features: Text = reviews  and output labels = positive/negative
+
+Simple RNN -> Prediction -> deployment
+
+
+Architecture:
+dataset -> f.e. -> simple RNN -> .h5 file -> streamlit web app -> deployment
+
+Simple RNN : 1. Embedding Layer 2. Simple RNN
+- embedding layer: responsible for converting input words into vectors.
+                   it uses word embeddings
